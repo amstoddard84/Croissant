@@ -1,21 +1,17 @@
 body {
-  background: #42275a; /* fallback for old browsers */
-  background: -webkit-linear-gradient(
-    to right,
-    #734b6d,
-    #42275a
-  ); /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(
-    to right,
-    #734b6d,
-    #42275a
-  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(120deg, #79fc7f 0%, #96e6a1 100%);
 }
 h1 {
   color: white;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   text-align: center;
 }
+p {
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+}
 a {
   color: lightseagreen;
+  text-align: center;
 }
